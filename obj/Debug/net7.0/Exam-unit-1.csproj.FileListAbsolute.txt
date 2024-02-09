@@ -1,0 +1,14 @@
+/Users/flores/Documents/GitHub/Exam-unit-1/bin/Debug/net7.0/Exam-unit-1
+/Users/flores/Documents/GitHub/Exam-unit-1/bin/Debug/net7.0/Exam-unit-1.deps.json
+/Users/flores/Documents/GitHub/Exam-unit-1/bin/Debug/net7.0/Exam-unit-1.runtimeconfig.json
+/Users/flores/Documents/GitHub/Exam-unit-1/bin/Debug/net7.0/Exam-unit-1.dll
+/Users/flores/Documents/GitHub/Exam-unit-1/bin/Debug/net7.0/Exam-unit-1.pdb
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.AssemblyInfoInputs.cache
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.AssemblyInfo.cs
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.csproj.CoreCompileInputs.cache
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.dll
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/refint/Exam-unit-1.dll
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.pdb
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/Exam-unit-1.genruntimeconfig.cache
+/Users/flores/Documents/GitHub/Exam-unit-1/obj/Debug/net7.0/ref/Exam-unit-1.dll
